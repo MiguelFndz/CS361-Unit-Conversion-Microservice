@@ -9,3 +9,7 @@ To receive data, the server will a return a string with the number representing 
 
 # Server Response
 <img width="646" alt="image" src="https://github.com/user-attachments/assets/ea887469-4b6c-40b2-b7d8-49c0fd2e2a41">
+
+# UML
+![image](https://github.com/user-attachments/assets/2d151293-ca8a-43f7-bdf7-f267b51eee3c)
+
