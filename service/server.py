@@ -10,6 +10,7 @@ while True:
     print(f"received message from the client: {message}")
     if len(message) > 0:
         socket.send_string(str(convert(message)))
+        break
         
 context.destroy()
         
